@@ -8,7 +8,33 @@ RHUTA Studio creates Android applications that combine modern technology with mi
 
 ## 📱 Our Apps
 
-### 🌿 [Quotes — Daily Zen & Wisdom](https://play.google.com/store/apps/details?id=rhuta.requotes)
+#  Bust Fleas
+
+**Save your furry (and feathered) friends from itchy intruders!**
+
+**Bust Fleas** is a fast-paced, hand-rolled arcade game for Android where you become the ultimate protector of animals. From cozy cats to curious cows, your mission is simple: **Bust the fleas before they wake the host!**
+
+## ✨ Features
+
+- **🐾 Diverse Hosts**: Protect 5 unique species: Dogs, Cats, Pigs, Cows, and Chickens.
+- **📈 Dynamic Difficulty**: The challenge scales as you play, keeping every round intense.
+- **📖 Host Gallery**: Unlock lore and temperament stats for all your animal friends.
+- **🎵 Sensory Immersion**: Experience unique soundscapes and haptic feedback tailored to each host's mood.
+- **🎤 Mic Interaction**: Use your voice (optional) to interact with the game in new ways.
+- **🛒 In-Game Shop**: Earn or buy coins to enhance your experience.
+
+## 🛠️ Built With
+
+- **Jetpack Compose**: Modern, declarative UI.
+- **Billing Client**: Secure in-app purchases.
+- **AdMob**: Rewarded ads for bonus rewards.
+- **No Third-Party Nav**: Lightweight, hand-rolled screen management for maximum performance.
+
+*BustFleas — because every animal deserves a nap without the itch!*
+
+---
+
+###  [Quotes — Daily Zen & Wisdom](https://play.google.com/store/apps/details?id=rhuta.requotes)
 
 **Quotes** is a minimalist, immersive experience designed to deliver curated wisdom directly to your fingertips.
 
@@ -34,7 +60,7 @@ No complex menus. No distractions. Just you and a moment of reflection.
 > **A small moment of wisdom, whenever you need it.**
 
 ---
-### 🌿 [ReTonight: Mindful Moods Dairy](https://play.google.com/store/apps/details?id=rhuta.retonight)
+###  [ReTonight: Mindful Moods Dairy](https://play.google.com/store/apps/details?id=rhuta.retonight)
 
 **ReTonight** is a next-generation reflection tool designed for the quiet moments of your day. More than just a diary, ReTonight uses a Psychological Recommendation Engine that interprets your environment and physical state to guide your mindfulness journey. It provides offline daily quotes to cheer you up and help you contemplating & understanding this world.
 Years later, these moods will be your precious memos.
@@ -59,7 +85,7 @@ Years later, these moods will be your precious memos.
 
 ---
 
-### 💠 [Vibro — Massage Rhythms & Zen](https://play.google.com/store/apps/details?id=com.rhuta.vibro)
+###  [Vibro — Massage Rhythms & Zen](https://play.google.com/store/apps/details?id=com.rhuta.vibro)
 
 **Vibro** is an elegantly designed wellness companion that turns your device into a source of rhythmic calm.
 
@@ -86,7 +112,7 @@ Featuring a stunning minimalist **glass-inspired interface**, Vibro is designed 
 
 ---
 
-### 🧠 [kask — Private On-Device AI](https://github.com/rhuta/kask)
+###  [kask — Private On-Device AI](https://github.com/rhuta/kask)
 
 **kask** is a private artificial intelligence assistant designed to run entirely on your device.
 
