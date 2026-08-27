@@ -8,7 +8,7 @@ RHUTA Studio creates Android applications that combine modern technology with mi
 
 ## 📱 Our Apps
 
-#  Bust Fleas
+#  [Bust Fleas](https://play.google.com/store/apps/details?id=com.rhuta.bustfleas)
 
 **Save your furry (and feathered) friends from itchy intruders!**
 
