@@ -8,7 +8,7 @@ RHUTA Studio creates Android applications that combine modern technology with mi
 
 ## 📱 Our Apps
 
-#  [Bust Fleas](https://play.google.com/store/apps/details?id=com.rhuta.bustfleas)
+#  [Bust Fleas: Bug Smasher Game](https://play.google.com/store/apps/details?id=com.rhuta.bustfleas)
 
 **Save your furry (and feathered) friends from itchy intruders!**
 
@@ -34,7 +34,7 @@ RHUTA Studio creates Android applications that combine modern technology with mi
 
 ---
 
-###  [Quotes — Daily Zen & Wisdom](https://play.google.com/store/apps/details?id=rhuta.requotes)
+###  [Quotes: Daily Zen & Wisdom](https://play.google.com/store/apps/details?id=rhuta.requotes)
 
 **Quotes** is a minimalist, immersive experience designed to deliver curated wisdom directly to your fingertips.
 
@@ -60,7 +60,7 @@ No complex menus. No distractions. Just you and a moment of reflection.
 > **A small moment of wisdom, whenever you need it.**
 
 ---
-###  [ReTonight: Mindful Moods Dairy](https://play.google.com/store/apps/details?id=rhuta.retonight)
+###  [ReTonight: Mood Tracker Diary](https://play.google.com/store/apps/details?id=rhuta.retonight)
 
 **ReTonight** is a next-generation reflection tool designed for the quiet moments of your day. More than just a diary, ReTonight uses a Psychological Recommendation Engine that interprets your environment and physical state to guide your mindfulness journey. It provides offline daily quotes to cheer you up and help you contemplating & understanding this world.
 Years later, these moods will be your precious memos.
@@ -85,7 +85,7 @@ Years later, these moods will be your precious memos.
 
 ---
 
-###  [Vibro — Massage Rhythms & Zen](https://play.google.com/store/apps/details?id=com.rhuta.vibro)
+###  [Vibro: Relax Massage Vibration](https://play.google.com/store/apps/details?id=com.rhuta.vibro)
 
 **Vibro** is an elegantly designed wellness companion that turns your device into a source of rhythmic calm.
 
