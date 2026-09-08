@@ -112,6 +112,20 @@ Featuring a stunning minimalist **glass-inspired interface**, Vibro is designed 
 
 ---
 
+###  [Seasons: AI Lunar Calendar(农历)](https://play.google.com/store/apps/details?id=com.rhuta.chinesecalendar)
+
+**「岁时」(Seasons)** is a premium, AI powered, minimalist Chinese/Lunar traditional calendar and daily companion. Built on the philosophy of "A Page Per Day" (一日一页), it transforms your device into a beautiful digital almanac inspired by Song Dynasty aesthetics, ink painting, and traditional rice paper textures.
+#### Key Features:
+* **Daily Almanac Page**: A dedicated page for every date. Explore Gregorian and Lunar calendars, 24 Solar Terms (节气), Ganzhi (干支), and the Chinese Zodiac.
+* **Daily Huangli (Almanac)**: Discover auspicious and inauspicious activities (宜/忌), lucky hours, and traditional directions calculated with professional accuracy.
+* **Elegant Seasonal Aesthetics**: A visual journey through Chinese heritage featuring rice paper backgrounds, vermilion accents, and minimalist ink-wash motifs.
+* **Daily AI Reflection & Notes**: Capture your thoughts, diaries, and to-do lists directly on each calendar page.
+* **Offline-First & Privacy**: All calendar data, Huangli calculations, and personal notes are processed locally. Your data stays on your device.
+* **Adaptive Design**: A seamless experience optimized for smartphones, foldables, and tablets.
+> **Rediscover the beauty of the seasons. Download 「岁时」(Seasons) today.**
+
+---
+
 ###  [kask — Private On-Device AI](https://github.com/rhuta/kask)
 
 **kask** is a private artificial intelligence assistant designed to run entirely on your device.
