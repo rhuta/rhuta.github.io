@@ -8,7 +8,31 @@ RHUTA Studio creates Android applications that combine modern technology with mi
 
 ## 📱 Our Apps
 
-#  [Bust Fleas: Bug Smasher Game](https://play.google.com/store/apps/details?id=com.rhuta.bustfleas)
+#  [Offer Rain – Personal AI Career Advisor](https://play.google.com/store/apps/details?id=com.rhuta.offerrain)
+
+**Transform job search chaos into a calm, intelligent, 1-tap workflow.**
+
+**Offer Rain** is a premium native Android productivity application—inspired by ai-job-search to automate and simplify every step of your job search: *Search → Match → Tailor → Apply → Interview → Track.*
+
+## ✨ Features
+- 🎯 Instant On-Device AI Match Scoring (15ms)
+Get instant, mathematically exact match scores (0–100%) and skill-gap diagnostics powered by an embedded 384-dimensional vector engine running 100% offline on your device.
+- ⚡ 1-Tap Automated Application Prep
+Select any job and tap [⚡ 1-Click Auto-Prepare] to automatically generate a tailored ATS resume, custom cover letter, STAR interview prep package, and native vector PDFs in seconds.
+- 📄 ATS-Friendly Resumes with Interactive Bullet Diffs
+Choose from Minimal, Engineering, or Modern Professional templates. Review AI-suggested bullet rewrites side-by-side with full Accept, Edit, or Reject control. Zero hallucinated facts—100% grounded in your real profile.
+- ✉️ Tailored Cover Letters & STAR Interview Studio
+Generate impact-driven cover letters in Professional, Strategic, or Concise tones. Practice technical and behavioral questions in an interactive studio with real-time AI scoring on your strengths and areas to improve.
+- 📊 Lightweight CRM Pipeline & Follow-Up Reminders
+Track applications across 8 lifecycle stages (Saved, Applied, Interview, Offer, etc.) with 1-tap quick status changes, Snackbar Undo, recruiter contacts, and scheduled local push reminders.
+- 🔒 100% Privacy-First & Flexible AI Choice
+All your saved jobs, applications, and documents remain stored securely on your phone. Unlock automated cloud AI with Offer Rain Pro out-of-the-box, or Bring Your Own API Key (OpenAI, Claude, DeepSeek, Groq, Gemini) with zero app lock-ins.
+
+#### 🚀 Get Ready for Your Next Career Move ####
+- Stop wasting hours copying and pasting between job boards and chatbots. Let Offer Rain handle the heavy lifting while keeping you in total control.
+
+---
+###  [Bust Fleas: Bug Smasher Game](https://play.google.com/store/apps/details?id=com.rhuta.bustfleas)
 
 **Save your furry (and feathered) friends from itchy intruders!**
 
