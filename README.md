@@ -1,4 +1,4 @@
-# RHUTA Studio
+# [RHUTA Studio](https://play.google.com/store/apps/developer?id=RHUTA+studio)
 
 **Thoughtful Android apps, designed around simplicity, privacy, and meaningful experiences.**
 
@@ -244,7 +244,7 @@ Our applications are built with modern Android development practices and technol
 
 ---
 
-## 🚧 More Coming Soon
+## 🚧 [More](https://play.google.com/store/apps/developer?id=RHUTA+studio) Coming Soon
 
 RHUTA Studio is continuously experimenting with new ideas across productivity, wellness, creativity, privacy, and artificial intelligence.
 
