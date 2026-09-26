@@ -8,7 +8,35 @@ RHUTA Studio creates Android applications that combine modern technology with mi
 
 ## 📱 Our Apps
 
-#  [Offer Rain – Personal AI Career Advisor](https://play.google.com/store/apps/details?id=com.rhuta.offerrain)
+# [OpenStocks: Market AI Tracker](https://play.google.com/store/apps/details?id=com.rhuta.openstock)
+
+> **Open, Clean, Mobile-First Market Intelligence**
+
+**OpenStocks** is a modern, high-performance Android application engineered for real-time financial market tracking and intelligent market analysis. Designed with a mobile-first philosophy, OpenStock combines snappy native UI rendering with powerful offline caching and AI-driven market insights to bring comprehensive market intelligence directly to your fingertips.
+
+## ✨ Features
+
+- 📊 **Real-Time Market Tracking**:
+  - Live indices, gainers, losers, and active volume movers.
+  - Interactive search across stocks, ETFs, and major financial assets.
+
+- 📈 **Interactive Native Charts**:
+  - Custom Canvas-driven chart visualization with pinch-to-zoom, smooth bezier curves, volume overlays, and multi-timeframe toggles (1D, 5D, 1M, 6M, 1Y, All).
+
+- 🗺️ **S&P 500 Market Heatmap**:
+  - High-resolution sector performance breakdown and visual heatmaps inspired by Finviz.
+
+- 🤖 **AI-Powered Market Insights**:
+  - One-tap Gemini AI summary generation for company profiles, recent earnings, and top news stories.
+
+- 🔔 **Custom Price Alerts**:
+  - Background price monitoring and notification alerts scheduled via WorkManager.
+
+- 📰 **Financial News Digest**:
+  - Curated category news feeds with sentiment badges and source links.
+
+---
+###  [Offer Rain – Personal AI Career Advisor](https://play.google.com/store/apps/details?id=com.rhuta.offerrain)
 
 **Transform job search chaos into a calm, intelligent, 1-tap workflow.**
 
