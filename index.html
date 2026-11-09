@@ -490,6 +490,31 @@
         font-size: 13px;
         line-height: 1.65;
       }
+      .learnpath { background: #dce8ce; }
+      .deeptutors { background: #e5ddce; }
+      .chatian { background: #d5e2dc; }
+      .worldmonitor { background: #cbd9d7; }
+      .ghosttracker { background: #d8dce2; }
+      .game-fleas { background: #e8d9c5; }
+      .game-boss { background: #d6dfcf; }
+      .game-wordth { background: #ddd9c8; }
+      .illustration-tile {
+        width: 170px;
+        height: 190px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 14px;
+        border-radius: 85px 85px 8px 8px;
+        background: #f8f7edc9;
+        box-shadow: 0 12px 30px #526a4d24;
+        color: #526f5b;
+        text-align: center;
+      }
+      .illustration-tile strong { font-family: var(--serif); font-size: 48px; font-weight: 400; line-height: 1; }
+      .illustration-tile small { font-size: 9px; letter-spacing: .15em; text-transform: uppercase; }
+      .games-section { border-top: 1px solid var(--line); }
       .all-products {
         margin-top: 80px;
       }
@@ -549,6 +574,60 @@
         font-size: 13px;
         color: #7b877d;
       }
+      .book-section {
+        border-top: 1px solid var(--line);
+      }
+      .book-feature {
+        display: grid;
+        grid-template-columns: minmax(260px, 0.8fr) 1.2fr;
+        background: #edf0e7;
+        border-radius: 8px;
+        overflow: hidden;
+      }
+      .book-art {
+        min-height: 520px;
+        background: #d9e3ce;
+        display: grid;
+        place-items: center;
+        padding: 45px;
+        position: relative;
+        overflow: hidden;
+      }
+      .book-art:before {
+        content: "";
+        position: absolute;
+        width: 390px;
+        height: 390px;
+        border: 1px solid #9fb39880;
+        border-radius: 50%;
+      }
+      .book-cover {
+        width: min(240px, 100%);
+        aspect-ratio: 2 / 3;
+        position: relative;
+        z-index: 1;
+        padding: 35px 28px;
+        background: #f5f0e1;
+        box-shadow: 0 18px 40px #526a4d35;
+        transform: rotate(-5deg);
+        color: #354d3f;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .book-cover small { font-size: 9px; letter-spacing: .16em; }
+      .book-cover-title { font-family: serif; font-size: clamp(38px, 4vw, 54px); letter-spacing: .12em; line-height: 1.35; }
+      .book-cover-line { width: 42px; border-top: 2px solid #bd6651; }
+      .book-copy { padding: clamp(30px, 5vw, 70px); align-self: center; }
+      .book-copy h3 { font-family: var(--serif); font-weight: 400; font-size: clamp(34px, 3.6vw, 48px); margin: 16px 0 5px; }
+      .book-subtitle { color: #7b897b; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; }
+      .book-lead { font-family: serif; font-size: 19px; line-height: 1.7; color: var(--green); margin: 25px 0 15px; }
+      .book-description { color: #647366; font-size: 14px; line-height: 1.9; }
+      .book-description p + p { margin-top: 14px; }
+      .book-details { margin-top: 18px; color: #647366; font-size: 14px; line-height: 1.9; }
+      .book-details summary { cursor: pointer; color: var(--green); font-weight: 700; }
+      .book-details p { margin-top: 14px; }
+      .book-copy .button { margin-top: 26px; }
       .philosophy {
         background: #e7eddd;
         border-radius: 10px;
@@ -674,7 +753,32 @@
         .feature-visual {
           height: 260px;
         }
-        .all-products {
+        .learnpath { background: #dce8ce; }
+      .deeptutors { background: #e5ddce; }
+      .chatian { background: #d5e2dc; }
+      .worldmonitor { background: #cbd9d7; }
+      .ghosttracker { background: #d8dce2; }
+      .game-fleas { background: #e8d9c5; }
+      .game-boss { background: #d6dfcf; }
+      .game-wordth { background: #ddd9c8; }
+      .illustration-tile {
+        width: 170px;
+        height: 190px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 14px;
+        border-radius: 85px 85px 8px 8px;
+        background: #f8f7edc9;
+        box-shadow: 0 12px 30px #526a4d24;
+        color: #526f5b;
+        text-align: center;
+      }
+      .illustration-tile strong { font-family: var(--serif); font-size: 48px; font-weight: 400; line-height: 1; }
+      .illustration-tile small { font-size: 9px; letter-spacing: .15em; text-transform: uppercase; }
+      .games-section { border-top: 1px solid var(--line); }
+      .all-products {
           margin-top: 55px;
         }
         .product-row {
@@ -690,7 +794,61 @@
           grid-column: 3;
           grid-row: 1;
         }
-        .philosophy {
+        .book-section {
+        border-top: 1px solid var(--line);
+      }
+      .book-feature {
+        display: grid;
+        grid-template-columns: minmax(260px, 0.8fr) 1.2fr;
+        background: #edf0e7;
+        border-radius: 8px;
+        overflow: hidden;
+      }
+      .book-art {
+        min-height: 520px;
+        background: #d9e3ce;
+        display: grid;
+        place-items: center;
+        padding: 45px;
+        position: relative;
+        overflow: hidden;
+      }
+      .book-art:before {
+        content: "";
+        position: absolute;
+        width: 390px;
+        height: 390px;
+        border: 1px solid #9fb39880;
+        border-radius: 50%;
+      }
+      .book-cover {
+        width: min(240px, 100%);
+        aspect-ratio: 2 / 3;
+        position: relative;
+        z-index: 1;
+        padding: 35px 28px;
+        background: #f5f0e1;
+        box-shadow: 0 18px 40px #526a4d35;
+        transform: rotate(-5deg);
+        color: #354d3f;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+      .book-cover small { font-size: 9px; letter-spacing: .16em; }
+      .book-cover-title { font-family: serif; font-size: clamp(38px, 4vw, 54px); letter-spacing: .12em; line-height: 1.35; }
+      .book-cover-line { width: 42px; border-top: 2px solid #bd6651; }
+      .book-copy { padding: clamp(30px, 5vw, 70px); align-self: center; }
+      .book-copy h3 { font-family: var(--serif); font-weight: 400; font-size: clamp(34px, 3.6vw, 48px); margin: 16px 0 5px; }
+      .book-subtitle { color: #7b897b; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; }
+      .book-lead { font-family: serif; font-size: 19px; line-height: 1.7; color: var(--green); margin: 25px 0 15px; }
+      .book-description { color: #647366; font-size: 14px; line-height: 1.9; }
+      .book-description p + p { margin-top: 14px; }
+      .book-details { margin-top: 18px; color: #647366; font-size: 14px; line-height: 1.9; }
+      .book-details summary { cursor: pointer; color: var(--green); font-weight: 700; }
+      .book-details p { margin-top: 14px; }
+      .book-copy .button { margin-top: 26px; }
+      .philosophy {
           grid-template-columns: 1fr;
           gap: 25px;
           padding: 55px 28px;
@@ -725,7 +883,7 @@
         ><span class="brand-mark">r</span> RHUTA STUDIO</a
       >
       <nav class="nav" aria-label="Main navigation">
-        <a href="#apps">Our apps</a><a href="#about">Our philosophy</a
+        <a href="#apps">Our apps</a><a href="#games">Games</a><a href="#books">Our book</a><a href="#about">Our philosophy</a
         ><a
           class="nav-cta"
           href="https://play.google.com/store/apps/developer?id=RHUTA+studio"
@@ -847,6 +1005,27 @@
               </p>
             </div></a
           >
+
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.learnpath">
+            <div class="feature-visual learnpath" aria-hidden="true"><div class="illustration-tile"><strong>✳</strong><small>Learn & grow</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">Education · Planning</span><span class="arrow">↗</span></div><h3>LearnPath</h3><p>A visual skill tree for children, parents, and educators to explore the building blocks of math, science, and literacy.</p></div>
+          </a>
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.deeptutors">
+            <div class="feature-visual deeptutors" aria-hidden="true"><div class="illustration-tile"><strong>?</strong><small>Think it through</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">Education · AI</span><span class="arrow">↗</span></div><h3>DeepTutors</h3><p>A Socratic AI study partner that guides you through complex subjects with questions, textbooks, and personalized practice.</p></div>
+          </a>
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.chatian">
+            <div class="feature-visual chatian" aria-hidden="true"><div class="illustration-tile"><strong>✉</strong><small>A little more clarity</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">Productivity · AI</span><span class="arrow">↗</span></div><h3>Chatian</h3><p>Turn notification and message clutter into concise summaries and actionable insights, right on your screen.</p></div>
+          </a>
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.worldmonitor">
+            <div class="feature-visual worldmonitor" aria-hidden="true"><div class="illustration-tile"><strong>◎</strong><small>A wider view</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">News · Global events</span><span class="arrow">↗</span></div><h3>World Radio TV Events Monitor</h3><p>Explore global events, natural disasters, and economic shifts on an interactive map with live feeds and AI insights.</p></div>
+          </a>
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.ghosttracker">
+            <div class="feature-visual ghosttracker" aria-hidden="true"><div class="illustration-tile"><strong>⌕</strong><small>Follow the clues</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">Research · OSINT</span><span class="arrow">↗</span></div><h3>Ghost Tracker</h3><p>Investigate public profiles, IP addresses, phone data, and geolocation with a privacy-first mobile toolkit.</p></div>
+          </a>
         </div>
         <div class="all-products">
           <div class="all-title">
@@ -871,14 +1050,6 @@
             ><span class="arrow">↗</span></a
           ><a
             class="product-row"
-            href="https://play.google.com/store/apps/details?id=com.rhuta.bustfleas"
-            ><span class="app-icon i3">✿</span
-            ><span class="product-name">Bust Fleas</span
-            ><span class="product-desc"
-              >A playful arcade game for animal lovers.</span
-            ><span class="arrow">↗</span></a
-          ><a
-            class="product-row"
             href="https://play.google.com/store/apps/details?id=com.rhuta.vibro"
             ><span class="app-icon i4">◉</span
             ><span class="product-name">Vibro</span
@@ -892,6 +1063,63 @@
               >A private AI assistant that runs on your device.</span
             ><span class="arrow">↗</span></a
           >
+        </div>
+      </section>
+      <section class="wrap section games-section" id="games">
+        <div class="section-head">
+          <div><div class="eyebrow">A little time to play</div><h2 class="section-title">Make room<br />for play.</h2></div>
+          <p>From quick reflexes to clever words and friendly competition, find a game for your next break.</p>
+        </div>
+        <div class="featured">
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.bustfleas">
+            <div class="feature-visual game-fleas" aria-hidden="true"><div class="illustration-tile"><strong>✿</strong><small>Tap & play</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">Arcade · Reflexes</span><span class="arrow">↗</span></div><h3>Bust Fleas</h3><p>Squash pesky fleas, build high-score combos, and keep up with the invasion in this fast-paced retro tap game.</p></div>
+          </a>
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.kickboss">
+            <div class="feature-visual game-boss" aria-hidden="true"><div class="illustration-tile"><strong>♠</strong><small>Play your hand</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">Cards · Strategy</span><span class="arrow">↗</span></div><h3>Kick Your Boss</h3><p>Take on the boss or claim the corner office in a three-player card battle inspired by DouDiZhu.</p></div>
+          </a>
+          <a class="feature-card" href="https://play.google.com/store/apps/details?id=com.rhuta.wordth">
+            <div class="feature-visual game-wordth" aria-hidden="true"><div class="illustration-tile"><strong>Aa</strong><small>Find the words</small></div></div>
+            <div class="card-info"><div class="card-top"><span class="tag">Words · Offline</span><span class="arrow">↗</span></div><h3>Wordth</h3><p>Solve clever word puzzles, grow your vocabulary, and build a streak at your own pace—even offline.</p></div>
+          </a>
+        </div>
+      </section>
+      <section class="wrap section book-section" id="books">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">A story from RHUTA</div>
+            <h2 class="section-title">A little room<br />for wonder.</h2>
+          </div>
+          <p>A story of love, memory, and the mysterious boundaries of reality.</p>
+        </div>
+        <div class="book-feature">
+          <div class="book-art" aria-hidden="true">
+            <div class="book-cover">
+              <small>A STORY OF LOVE &amp; POSSIBILITY</small>
+              <div class="book-cover-title" lang="zh-Hans">隧穿<br />效应</div>
+              <div class="book-cover-line"></div>
+              <small>TUNNELING EFFECT</small>
+            </div>
+          </div>
+          <div class="book-copy" lang="zh-Hans">
+            <div class="tag">小说 · 青春 · 悬疑</div>
+            <h3>隧穿效应</h3>
+            <div class="book-subtitle" lang="en">Tunneling Effect</div>
+            <p class="book-lead">当量子力学的不确定性，撞上最真实的爱情，会发生什么？</p>
+            <div class="book-description">
+              <p>2008 年的初夏，西北某大学的毕业季，黄河水波微澜。裴泊秋与朋友们举杯告别，却不知有人正隔着夜色与铁桥，在暗处窥视着这一切。</p>
+              <p>从宿舍里的火锅夜话，到四川山区支教的尘土飞扬；从未能完全发送“我爱你”的声控音乐盒，到黄河铁桥上的痛哭与承诺，裴泊秋和伊非柔的爱情在现实与回忆中反复拉扯。而旧爱、秘密与神秘的旁观者，也让他们的故事蒙上一层悬疑。</p>
+            </div>
+            <details class="book-details">
+              <summary>阅读完整简介</summary>
+              <p>她是生物医学工程的裴泊秋，文静内敛，内心藏着姐姐溺亡、父母离异的隐痛；他是计算机系的才子伊非柔，代码写得出神入化，却对过去的悸动始终无法释怀。他是她名义上的男友，也是那个曾在大一军训后误踢中她、从此魂牵梦萦的“足球小子”。</p>
+              <p>伊非柔的旧爱艾恋，传闻与核物理系的“高老师”和某些不可名状的秘密有关；那个始终在暗处观察的黑衣神秘人，似乎掌握着超越常理的线索。就连量子力学中“不可能发生的隧穿效应”，也仿佛成了他们命运的隐喻——在看似封闭的认知道垒前，有些关系会悄然穿透，有些真相会凭空降临。</p>
+              <p>当毕业的脚步临近，当关于四川绵阳的再次邀约引发信任危机，当裴泊秋在铁桥上道出心底最深的恐惧……伊非柔能否用代码般的逻辑，破解这段感情背后的所有“异常”？</p>
+              <p>这不仅仅是一段关于青春、遗憾与坚守的校园爱情，更是一封写给 2008 年那个苍凉又热烈的夏天的情书，也是一场关于“现实边界”的悬疑解谜。在这里，爱，或许真的能发生概率为零的“隧穿”。</p>
+            </details>
+            <a class="button" href="https://play.google.com/store/books/details?id=8X7_EQAAQBAJ">在 Google Play 图书查看 <span aria-hidden="true">↗</span></a>
+          </div>
         </div>
       </section>
       <section class="wrap philosophy" id="about">
@@ -928,7 +1156,7 @@
       >
       <p>© 2026 RHUTA Studio. Made with intention. rhuta [at] msn.com</p>
       <div class="footer-links">
-        <a href="#apps">Our apps</a><a href="#about">Our philosophy</a
+        <a href="#apps">Our apps</a><a href="#games">Games</a><a href="#books">Our book</a><a href="#about">Our philosophy</a
         ><a href="https://play.google.com/store/apps/developer?id=RHUTA+studio"
           >Google Play ↗</a
         >
